@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b3473f-d8a7-42c6-894f-0c4ffb27c5bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningATB7xJavaProgram_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15012025/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15012025/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15012025/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15012025/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15012025/Lab006.java" afterDir="false" />
+    <list default="true" id="c8b3473f-d8a7-42c6-894f-0c4ffb27c5bb" name="Changes" comment="All files are added">
+      <change afterPath="$PROJECT_DIR$/src/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shaikh-sanaa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shaikh-sanaa/LearningATB7xJavaProgram_01.git",
+    "accountId": "66736620-a12f-4cb4-a80e-f2ced170e51d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -52,26 +53,14 @@
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab005.executor": "Run",
+    "Application.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/a739902/IdeaProjects/LearningATB7xJavaProgram_01/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab005">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15012025.Lab001" />
-      <module name="LearningATB7xJavaProgram_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15012025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab007">
     <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_15012025.Lab002" />
       <module name="LearningATB7xJavaProgram_01" />
@@ -124,13 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab007" />
+      <module name="LearningATB7xJavaProgram_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab007" />
         <item itemvalue="Application.Lab005" />
         <item itemvalue="Application.Lab004" />
         <item itemvalue="Application.Lab003" />
         <item itemvalue="Application.Lab002" />
-        <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,20 @@
       <option name="presentableId" value="Default" />
       <updated>1736950032329</updated>
     </task>
+    <task id="LOCAL-00001" summary="All files are added">
+      <option name="closed" value="true" />
+      <created>1737298735502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737298735502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
